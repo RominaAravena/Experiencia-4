@@ -1,0 +1,6 @@
+Circuito integrado control de motor con puente en H:
+ https://www.tinkercad.com/things/egyXyFTQYBO 
+Circuito integrado amplificador operacional 741:
+ https://www.tinkercad.com/things/kOF732UUhca 
+Circuito integrado 555-Temporizador:
+ https://www.tinkercad.com/things/8XpfyC9UFF3 
